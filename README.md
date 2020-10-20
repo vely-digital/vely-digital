@@ -37,4 +37,4 @@ Non Programming Side Projects:
 
 ## Thanks for checking me out! Bye Bye 🤪
 
-<img src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif?itemid=8807701"/>
+<img src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif?itemid=8807701" width="220"/>
