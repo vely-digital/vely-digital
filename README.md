@@ -1,20 +1,20 @@
-### Hi there 👋
+### Hi there I'm Filip Patafta aka Vely👋
+
+I'm full stack web developer from Croatia. I have bsc in computer engineering and have several years of work experience as full stack working on both frontend and backend. 
+When I'm not developing I love to read books, read comics or play wow.
+
+Hobbys:
+* Aspiring Unity game developer 🎮
+* Contributing to wow addons and playing 😮
+* Reading books and comics 📚
+* Creation overall 🎨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vely-digital&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+Open Source:
+* GitHub Action Discord - https://github.com/vely-digital/discord-action-steps
+* Express Mongo Crud Generator - https://github.com/vely-digital/simple-express-crud-generator
 
-
-<!--
-**vely-digital/vely-digital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Non Programming Side Projects:
+* Webtoon Comic (coming soon): https://www.webtoons.com/en/challenge/empiras-awakening/list?title_no=314276&page=1
+* Visual Novel (coming soon): https://studio-vely.itch.io/triple-bubble-trouble-part-one
