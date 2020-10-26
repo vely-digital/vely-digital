@@ -28,8 +28,6 @@ Hobbys:
 
 [![Discord Playing](https://discord-action-playing.herokuapp.com)](https://discord-action-playing.herokuapp.com)
 
-d
-
 Open Source:
 * GitHub Action Discord - https://github.com/vely-digital/discord-action-steps
 * Express Mongo Crud Generator - https://github.com/vely-digital/simple-express-crud-generator
