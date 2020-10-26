@@ -26,6 +26,10 @@ Hobbys:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vely-digital&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs22](https://discord-action-playing.herokuapp.com)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 Open Source:
 * GitHub Action Discord - https://github.com/vely-digital/discord-action-steps
 * Express Mongo Crud Generator - https://github.com/vely-digital/simple-express-crud-generator
