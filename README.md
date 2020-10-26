@@ -26,7 +26,7 @@ Hobbys:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vely-digital&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs22](https://discord-action-playing.herokuapp.com)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs22](https://discord-action-playing.herokuapp.com)](https://discord-action-playing.herokuapp.com)
 
 
 
