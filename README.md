@@ -29,8 +29,10 @@ Hobbys:
 [![Discord Playing :)](https://discord-action-playing.herokuapp.com/)](https://github.com/vely-digital/github-readme-discord-playing)
 
 Open Source:
+* Github Readme Discord Playing - https://github.com/vely-digital/github-readme-discord-playing
 * GitHub Action Discord - https://github.com/vely-digital/discord-action-steps
 * Express Mongo Crud Generator - https://github.com/vely-digital/simple-express-crud-generator
+
 
 Non Programming Side Projects:
 * Webtoon Comic (coming soon): https://www.webtoons.com/en/challenge/empiras-awakening/list?title_no=314276&page=1
