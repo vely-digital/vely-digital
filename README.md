@@ -1,12 +1,12 @@
 # Hi there I'm Filip Patafta aka Vely👋
 
-I'm full stack web developer from Croatia. I have bsc in computer engineering and have several years of work experience as full stack working on both frontend and backend. 
-When I'm not developing I love to read books, read comics or play wow.
+I'm full stack web developer from Croatia. I have bsc in computer engineering and several years of work experience as a full stack dev working on both frontend and backend. 
+Beside developing, I love to read books and comics or play WoW.
 
 Hobbys:
 * Aspiring Unity game developer 🎮
 * Aspiring Devops learner 
-* Contributing to wow addons and playing 😮
+* Contributing to WoW addons and playing 😮
 * Reading books and comics 📚
 * Creation overall 🎨
 
