@@ -3,6 +3,9 @@
 I'm full stack web developer from Croatia. I have bsc in computer engineering and several years of work experience as a full stack dev working on both frontend and backend. 
 Beside developing, I love to read books and comics or play WoW.
 
+Founder and CEO -> https://vely.digital
+Lead Developer at Croatian SaaS -> https://worktime.hr
+
 Hobbys:
 * Aspiring Unity game developer 🎮
 * Aspiring Devops learner 
