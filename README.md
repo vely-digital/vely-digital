@@ -4,7 +4,10 @@ I'm full stack web developer from Croatia. I have bsc in computer engineering an
 Beside developing, I love to read books and comics or play WoW.
 
 Founder and CEO -> https://vely.digital
-Lead Developer at Croatian SaaS -> https://worktime.hr
+Projects:
+* Croatian Time Attendance SaaS -> https://worktime.hr
+* Multipurpose SaaS -> https://veela.app
+
 
 Hobbys:
 * Aspiring Unity game developer 🎮
@@ -35,11 +38,6 @@ Open Source:
 * GitHub Readme Discord Playing - https://github.com/vely-digital/github-readme-discord-playing
 * GitHub Action Discord - https://github.com/vely-digital/discord-action-steps
 * Express Mongo Crud Generator - https://github.com/vely-digital/simple-express-crud-generator
-
-
-Non Programming Side Projects:
-* Webtoon Comic (coming soon): https://www.webtoons.com/en/challenge/empiras-awakening/list?title_no=314276&page=1
-* Visual Novel (coming soon): https://studio-vely.itch.io/triple-bubble-trouble-part-one
 
 
 ## Thanks for checking me out! Bye Bye 🤪
