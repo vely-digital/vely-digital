@@ -4,6 +4,7 @@ I'm full stack web developer from Croatia. I have bsc in computer engineering an
 Beside developing, I love to read books and comics or play WoW.
 
 Founder and CEO -> https://vely.digital
+
 Projects:
 * Croatian Time Attendance SaaS -> https://worktime.hr
 * Multipurpose SaaS -> https://veela.app
